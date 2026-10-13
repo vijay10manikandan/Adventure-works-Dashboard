@@ -4,9 +4,6 @@
 Developed an interactive Power BI dashboard to analyze business
 performance, revenue, profit, orders, and product returns.
 
-## Dashboard Preview
-
-![Adventure Works Dashboard](Adventure%20Works%20Executive%20Dashboard.PNG)
 
 ## Key Performance Indicators
 - Total Profit: $10.5M
